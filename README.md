@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 _My Skills and tools_
-BootStrap  ||   PHP    ||  JAVA    ||   Python-Django   ||  MySQL    
+   
 
 _TOOLS_
 Cisco Packet Tracer   ||   Visual Studio Code   ||   Putty   ||  PhotoShop    
