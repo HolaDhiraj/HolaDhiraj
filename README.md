@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 >Languages:
-JAVA  || Python-Django || PHP  || Bootstrap  || MySQL ||
+JAVA  || Angular || Python-Django || PHP  || Bootstrap  || MySQL ||
 
 >Tools: 
-OracleVM  ||  Cisco Packet Tracer  || Photoshop   || Visual Studio Code  ||  GIT   ||
+OracleVM  ||  Cisco Packet Tracer  || Photoshop   || Intellij Ultimate ||  GIT   ||
    
 
 
