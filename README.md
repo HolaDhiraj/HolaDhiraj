@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Dhiraj Bhattarai**
-- 👀 I’m interested in **JAVA/Python-Django**
+- 👀 I’m interested in **JAVA/RUST/PYTHON/Svelte/JS**
 - 🌱 I’m currently **learning AWS and JSP**
 - 💞️ I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me **linkedin(/dhiraj-bhattarai/) || Instagram(dheru_bhattarai)**
@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 >Languages:
-JAVA  || Angular || Python-Django || PHP  || Bootstrap  || MySQL ||
+JAVA  || RUST || SVELTE || Angular || Python-Django || PHP  || Bootstrap  || MySQL || PostgreSQL 
 
 >Tools: 
-OracleVM  ||  Cisco Packet Tracer  || Photoshop   || Intellij Ultimate ||  GIT   ||
+OracleVM  ||  Cisco Packet Tracer  || Photoshop   || JETBRAINS ||  GIT   || GITHUB 
    
 
 
