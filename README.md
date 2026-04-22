@@ -23,16 +23,16 @@ I specialize in:
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages
-`Java` • `Rust` • `JavaScript` • `Python` • `PHP`
+`Java` • `Rust` • `JavaScript` • `Python` • `PHP` • `Svelte`
 
 ### ⚙️ Frameworks & Tools
-`Jakarta EE` • `Node.js` • `Angular` • `Svelte` • `Django`
+`Jakarta EE` • `Spring boot` • `Node.js` • `Angular` • `Svelte` • `Django`
 
 ### 🗄️ Databases
 `PostgreSQL` • `MySQL` • `MSSQL` • `Elasticsearch`
 
 ### ☁️ DevOps & Tools
-`AWS (Learning)` • `NGINX` • `Docker` • `Kafka`  
+`AWS (Learning)` • `NGINX` • `Docker` • `K3s` • `Jenkin`   • `Kafka`  
 `Git` • `GitHub` • `JetBrains IDEs`
 
 ### 🧪 Testing & API Tools
@@ -71,10 +71,11 @@ I’m open to:
 
 - 💼 LinkedIn: https://linkedin.com/in/dhiraj-bhattarai  
 - 📸 Instagram: https://instagram.com/dheru_bhattarai  
-- 🌐 Website: https://bhattaraidhiraj.com.np  
+- 🌐 Website: https://bhattaraidhiraj.com.np
+- 🌐 Website for freelancer: https://talentmandu.com.  
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy building **real-world scalable systems** and solving **complex backend challenges** 🚀
+I enjoy building **real-world scalable systems** and solving **complex backend challenges** 
