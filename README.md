@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Dhiraj Bhattarai
 
 🌐 **Portfolio:** https://bhattaraidhiraj.com.np  
-🚀 **Founder of Talentmandu:** https://talentmandu.com  
-👉 *Find Top Freelancers & Get Work Done Fast | Affordable Budget & Earn Rewards*
+🚀 **Founder of Talentmandu:** https://talentmandu.com : 👉 *Find Top Freelancers & Get Work Done Fast | Affordable Budget & Earn Rewards*
+
 
 ---
 
