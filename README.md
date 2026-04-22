@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Dhiraj Bhattarai** -- **https://bhattaraidhiraj.com.np** -- **Dhiraj Bhattarai -Official website **
-- ** Founder of** -- **https://talentmandu.com** -- **** Find Top Freelancers & Get Work Done Fast | Affordable Budget & Earn Rewards
+- ** Founder of** -- **https://talentmandu.com** -- ** Find Top Freelancers & Get Work Done Fast | Affordable Budget & Earn Rewards
 - 👀 I’m interested in **JAVA/RUST/PYTHON/Svelte/JS**
 - 🌱 I’m currently **learning AWS and JSP**
 - 💞️ I’m looking to collaborate on **Open Source Projects**
