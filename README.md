@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dhiraj Bhattarai 
-🌐 **Founder & CEO of Algossian Labs ** https://algossian.com
+🌐 **Founder & CEO of Algossian Labs **https://algossian.com
 🌐 **Portfolio:** https://bhattaraidhiraj.com.np  
 🚀 **Founder of Talentmandu:** https://talentmandu.com : 👉 *Find Top Freelancers & Get Work Done Fast | Affordable Budget & Earn Rewards*
 
