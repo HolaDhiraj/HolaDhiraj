@@ -72,7 +72,8 @@ I’m open to:
 - 💼 LinkedIn: https://linkedin.com/in/dhiraj-bhattarai  
 - 📸 Instagram: https://instagram.com/dheru_bhattarai  
 - 🌐 Website: https://bhattaraidhiraj.com.np
-- 🌐 Website for freelancer: https://talentmandu.com.  
+- 🌐 Website for freelancer: https://talentmandu.com.
+- 🌐 connect @ hello@talentmandu.com 
 
 ---
 
